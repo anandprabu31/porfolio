@@ -3,6 +3,7 @@ import { Col, Container,Row } from 'react-bootstrap'
 import { TiSocialFacebook } from "react-icons/ti";
 import { TiSocialLinkedin } from "react-icons/ti";
 import { IoLogoWhatsapp } from "react-icons/io";
+import { MdEmail } from "react-icons/md";
 
 const Contact = () => {
   return (
@@ -18,6 +19,9 @@ const Contact = () => {
             </Col>
             <Col>
             <p><IoLogoWhatsapp size={35} />+918344491636</p>
+            </Col>
+            <Col>
+            <p><MdEmail  size={35} />anandprabu060@gmail.com</p>
             </Col>
         </Row>
 
