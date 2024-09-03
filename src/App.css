@@ -1,0 +1,15 @@
+.list{
+  
+    display: flex;
+    justify-content: center; /* Centers the ul horizontally */
+    align-items: center; /* Centers the ul vertically within the container */
+    height: 100%; /* Ensure the container takes up the full height */
+    padding: 20px; /* Optional: adds some padding */
+  
+}
+ul {
+   
+  margin: 140px;
+  padding: 80px;
+  text-align: left; /* Aligns text to the left within the list */
+}
