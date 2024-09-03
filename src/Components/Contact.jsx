@@ -7,7 +7,7 @@ import { IoLogoWhatsapp } from "react-icons/io";
 const Contact = () => {
   return (
     <Container id='contact' className="my-5">
-                 <h2 className='text-center'>Contact me</h2>
+                 <h2 className='text-center'>Contact</h2>
         <Row md={4}>
            
             <Col>
